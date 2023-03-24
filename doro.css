@@ -1,0 +1,30 @@
+h1{
+    color: crimson;
+    background-color: bisque;
+}
+p.div,h3{
+    background-color: aqua;
+    color: fuchsia;
+}
+.rahul{
+    background-color: black;
+    color: white;
+}
+/*  #shiv{
+    background-color:black;
+    color: aliceblue;
+}   */
+
+.btn{
+    background-image:url(jpcom.jfif) ;
+    background-attachment:scroll;
+    background-position:right top;
+    background-repeat: no-repeat;
+    width: 50%;
+    border: 4px solid blue;
+    border-radius: 15px;
+    padding: 20px 25px;
+    margin: 5px 10px;
+    color: rgb(240, 9, 9);
+
+}

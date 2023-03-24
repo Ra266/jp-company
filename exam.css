@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color:black;
+}
+body{
+    border-color: black;
+    border: 4px;
+    border-radius: 4px;
+    background-color:coral;
+    box-shadow: 3px;
+
+}
+table{
+    border:2px solid black;
+    border-color: black;
+    box-shadow: 5px;
+}

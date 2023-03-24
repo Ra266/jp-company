@@ -1,0 +1,22 @@
+table,th,td{
+    background-color:black;
+    color: white;
+    border-radius: 5px;
+    border: solid blueviolet 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    
+   
+   
+}
+
+th:hover{
+    color:red;
+    background-color: blueviolet;
+    
+}
+td:hover{
+    color:blue;
+    background-color: rgb(119, 253, 2);
+    
+}
